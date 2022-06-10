@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trevorhart42
 - 👀 I’m interested in Enterprise Architecture, Data Engineering and Statistical applications
-- 🌱 I’m currently learning DataBricks, Jupyter, Python
+- 🌱 I’m currently learning DataBricks, Jupyter, Python, Python AI libraries and more
 - 💞️ I’m looking to collaborate on any data engineering / data science applications particularly in the Public Health domain
 - 📫 How to reach me @trevorhart on twitter
 
